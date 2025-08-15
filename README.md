@@ -34,11 +34,11 @@ Headline churn metrics
 “Month-to-month + Electronic check + 12–24 months → 51.3%.”
 “Month-to-month + Credit card (auto) + ≤ 6 months → 44.5%.”
 
-![Churn Distribution](reports/figures/churn_pie.png)
-![Churn by Contract](reports/figures/churn_by_contract_stacked_pct.png)
-![Churn by Payment](reports/figures/churn_by_payment_stacked_pct.png)
-![Churn by Senior](reports/figures/churn_by_senior_stacked_pct.png)
-![Churn by Tenure](reports/figures/churn_by_tenure_stacked_pct.png)
+![Churn Distribution](reports/Figures/churn_pie.png)
+![Churn by Contract](reports/Figures/churn_by_contract_stacked_pct.png)
+![Churn by Payment](reports/Figures/churn_by_payment_stacked_pct.png)
+![Churn by Senior](reports/Figures/churn_by_senior_stacked_pct.png)
+![Churn by Tenure](reports/Figures/churn_by_tenure_stacked_pct.png)
 
 ## Contract vs Churn (%)
 | Contract       | No   | Yes  |
